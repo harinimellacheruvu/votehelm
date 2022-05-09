@@ -1,0 +1,14 @@
+apiVersion: v1
+entries:
+  harini1:
+  - apiVersion: v2
+    appVersion: 1.16.0
+    created: "2022-05-09T10:28:21.110787599Z"
+    description: A Helm chart for Kubernetes
+    digest: e544e76a76c854b83c079e47f323d9d4aec20390810489fd3b18825f6b63ee7d
+    name: harini1
+    type: application
+    urls:
+    - harini1-0.1.0.tgz
+    version: 0.1.0
+generated: "2022-05-09T10:28:21.110385807Z"
